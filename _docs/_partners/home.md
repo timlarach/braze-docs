@@ -10,7 +10,7 @@ partner_top_text: "Welcome to our list of Alloys (our allies - our best buds - o
 description: "This landing page includes all Braze partners. Use it to explore technical documentation that will help implement Technology Partners into your Braze SDK."
 
 valid_partner_list:
-- name: Jampp
+- name: Jampp TESTING AGAIN
   url: /docs/partners/message_orchestration/additional_channels/retargeting/jampp/
 - name: Remerge
   url: /docs/partners/message_orchestration/additional_channels/retargeting/remerge/
